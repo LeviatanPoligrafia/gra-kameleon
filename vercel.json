@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/kameleon-gra.html" }
+  ]
+}
